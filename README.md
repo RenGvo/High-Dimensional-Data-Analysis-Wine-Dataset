@@ -7,7 +7,7 @@ With high dimensional data, the number of features can exceed the number of obse
 Reduction of dimensionality means to simplify understanding of data, either numerically or visually. Data could be combined into groups, scaled, classified, grouped.
 
 <ul>
-<li> Principal Component Analysis (PCA)</li>
+<li> Principal Component analysis (PCA)</li>
 <li> Linear discriminant analysis (LDA)</li>
 <li> Parallel coordinates method</li>
 <li> Andrews Curves</li>
